@@ -13,4 +13,4 @@
 Twitter→@Shirokuma_ee
 
 ## Learning Skills:
-[![Skills](https://skillicons.dev/icons?i=python,html,css,react,typescript)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,html,css,react,typescript,supabase,vercel)](https://skillicons.dev)
